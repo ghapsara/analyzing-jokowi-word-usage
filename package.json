@@ -22,5 +22,6 @@
     "deploy": "gh-pages -d build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "homepage": "https://ghapsara.github.io/analyzing-jokowi-word-usage"
 }
