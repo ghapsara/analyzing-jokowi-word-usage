@@ -82,7 +82,7 @@ class Methodology extends React.Component {
           </BulletWrapper>
           <Paragraph>
             If you are interested with the analysis and data of this essay,
-            I made a notebook that you can explore in <Link tag="here" url="https://www.github.com/ghapsara" />.
+            I made a notebook that you can explore in <Link tag="here" url="https://github.com/ghapsara/analyzing-jokowi-word-usage/tree/notebook" />.
           </Paragraph>
         </Wrapper>
         <DividerWrapper>
