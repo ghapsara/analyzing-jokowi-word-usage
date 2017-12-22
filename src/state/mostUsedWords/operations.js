@@ -2,7 +2,7 @@ import { Observable } from 'rxjs/Rx';
 import types from './types';
 import appTypes from '../app/types';
 import actions from './actions';
-import { getSelectedWord, getSelectedWordIndex } from './selectors';
+import { getSelectedWordIndex } from './selectors';
 import { height as chartHeight } from '../../components/MostUsedWords/Visualization/constants';
 
 const {
