@@ -10,6 +10,7 @@ const Wrapper = styled.div`
   left: 0px;
   display: flex;
   height: ${window.innerHeight}px;
+  z-index: ${props => props.isVisible ? 99999 : -1};
 `;
 
 const Menu = styled.div`
@@ -83,7 +84,9 @@ class HelperMenu extends React.Component {
         style={motionStyle}
       >
         {({ offset }) =>
-          <Wrapper>
+          <Wrapper
+            isVisible={isVisible}
+          >
             <Menu
               style={{
                 transform: `translate(${offset}px)`
