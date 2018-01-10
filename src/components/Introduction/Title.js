@@ -45,7 +45,7 @@ class Title extends React.Component {
         <Center>
           <TextWrapper>
             <HeroTitle isDesktop={isDesktop}>
-              Analyzing <Link tag="@jokowi" url="https:/twitter.com/jokowi"/>'s
+              Analyzing <Link tag="@jokowi" url="https://twitter.com/jokowi"/>'s
               <br />
               Word Usage on Twitter
             </HeroTitle>
