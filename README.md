@@ -2,6 +2,6 @@
 
 A repository contains code for analyzing Mr. Jokowi's word usage on Twitter.
 
-- Front-end code is on the [`visualization`](https://github.com/ghapsara/analyzing-jokowi-word-usage) branch
+- Front-end code is on the [`visualization`](https://github.com/ghapsara/analyzing-jokowi-word-usage/tree/visualization) branch
 - Data and analyisis is located at [`notebook`](https://github.com/ghapsara/analyzing-jokowi-word-usage/tree/notebook) branch
 
