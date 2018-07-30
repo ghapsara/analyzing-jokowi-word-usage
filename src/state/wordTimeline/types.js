@@ -1,0 +1,16 @@
+const AUTO_SELECT = 'word-timeline/AUTO_SELECT';
+const START_AUTO_SELECT = 'word-timeline/START_AUTO_SELECT';
+const STOP_AUTO_SELECT = 'word-timeline/STOP_AUTO_SELECT';
+const ON_SELECT = 'word-timeline/ON_SELECT';
+
+const SET_SECTION_POSITION = 'word-timeline/SET_SECTION_POSITION';
+const SET_CHART_POSITION = 'word-timeline/SET_CHART_POSITION';
+
+export default {
+  AUTO_SELECT,
+  START_AUTO_SELECT,
+  STOP_AUTO_SELECT,
+  ON_SELECT,
+  SET_SECTION_POSITION,
+  SET_CHART_POSITION
+};
