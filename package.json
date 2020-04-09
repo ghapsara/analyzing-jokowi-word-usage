@@ -9,7 +9,7 @@
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-motion": "^0.5.2",
-    "react-redux": "^5.0.6",
+    "react-redux": "^7.2.0",
     "react-scripts": "^1.1.4",
     "redux": "^3.7.2",
     "redux-observable": "^0.17.0",
